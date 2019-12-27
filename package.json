@@ -1,0 +1,17 @@
+{
+  "name": "automate-io",
+  "version": "1.0.0",
+  "description": "Assignment for Automate.io",
+  "main": "dict.js",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "inquirer": "^7.0.1",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node dict.js"
+  },
+  "author": "saiseetharamaiah Talisetty",
+  "license": "ISC"
+}
