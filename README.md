@@ -10,13 +10,13 @@ Steps to Test:
 3. Set node path to the current Working Dorectory in command Line and run "npm install" command
 4. Commands:
    --------------
-   a. npm test defn <word> : Display Definations of the word
-   b. npm test syn <word> : Display Synonyms if any
-   c. npm test ant <word> : Display Antonyms if any
-   d. npm test ex <word> : Display Examples of the word 
-   e. npm test <word> : Display all definitions, synonyms, antonyms and examples of the word
-   f. npm test : Display all definitions, synonyms, antonyms and examples of any random word
-   g. npm test play : Display definition and synonym of the word and ask user to enter the correct word.
+   1. npm test defn <word> : Display Definations of the word
+   2. npm test syn <word> : Display Synonyms if any
+   3. npm test ant <word> : Display Antonyms if any
+   4. npm test ex <word> : Display Examples of the word 
+   5. npm test <word> : Display all definitions, synonyms, antonyms and examples of the word
+   6. npm test : Display all definitions, synonyms, antonyms and examples of any random word
+   7. npm test play : Display definition and synonym of the word and ask user to enter the correct word.
       - Three Choices: 
           1. Try Again
           2. Hint: 
